@@ -1,0 +1,5 @@
+/Users/usuario/Projects/Mercado/Mercado/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/usuario/Projects/Mercado/Mercado/bin/Debug/Mercado.exe.mdb
+/Users/usuario/Projects/Mercado/Mercado/bin/Debug/Mercado.exe
+/Users/usuario/Projects/Mercado/Mercado/obj/x86/Debug/Mercado.exe
+/Users/usuario/Projects/Mercado/Mercado/obj/x86/Debug/Mercado.exe.mdb
